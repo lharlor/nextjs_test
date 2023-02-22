@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\components",
     "\\pages",
-    "\\pages\\posts"
+    "\\styles"
   ],
+  "SelectedNode": "\\tailwind.config.js",
   "PreviewInSolutionExplorer": false
 }
