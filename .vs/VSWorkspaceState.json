@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\components",
+    "\\lib",
     "\\pages",
+    "\\posts",
     "\\styles"
   ],
+  "SelectedNode": "\\pages\\index.js",
   "PreviewInSolutionExplorer": false
 }
